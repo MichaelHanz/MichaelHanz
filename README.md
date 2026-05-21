@@ -3,6 +3,11 @@
   <h3>Full-Stack Junior Developer | Web Enthusiast | Lifelong Learner </h3>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelHanz&show_icons=true&theme=radium" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHanz&layout=compact&theme=radium" alt="Top Languages" />
+</div>
+
 ---
 
 ### 👨‍💻 About Me
