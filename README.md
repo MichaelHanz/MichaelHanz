@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! 👋 I'm a CS Student based in Malaysia.</h1>
-  <h3>Full-Stack Developer | Web Enthusiast | Lifelong Learner</h3>
+  <h3>Full-Stack Junior Developer | Web Enthusiast | Lifelong Learner </h3>
 </div>
 
 ---
