@@ -43,5 +43,5 @@ I am comfortable working across the stack and enjoy experimenting with different
 ---
 
 <div align="center">
-  <i>"Always building, always learning."</i>
+  <i>"Always building, always learning, always adapting"</i>
 </div>
