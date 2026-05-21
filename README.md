@@ -3,15 +3,6 @@
   <h3>Full-Stack Junior Developer | Web Enthusiast | Lifelong Learner </h3>
 </div>
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelHanz&show_icons=true&theme=radium" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHanz&layout=compact&theme=radium" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHanz&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ### 👨‍💻 About Me
 
 I am a university student deeply passionate about computer science and the ever-evolving landscape of software development. My primary drive is a relentless curiosity to understand exactly how the web works under the hood from the way browsers render pixels to how data moves across servers.
