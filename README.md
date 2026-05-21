@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I am a university student deeply passionate about computer science and the ever-evolving landscape of software development. My primary drive is a relentless curiosity to understand exactly how the web works under the hood—from the way browsers render pixels to how data moves across servers.
+I am a university student deeply passionate about computer science and the ever-evolving landscape of software development. My primary drive is a relentless curiosity to understand exactly how the web works under the hood from the way browsers render pixels to how data moves across servers.
 
 Currently, I'm navigating the exciting world of full-stack development. I love the challenge of bridging the gap between sleek, minimalist user interfaces and robust backend architectures. Whether I'm designing a seamless frontend experience or structuring a database, my goal is always to build clean, efficient, and user-centric applications.
 
