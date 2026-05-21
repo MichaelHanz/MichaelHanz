@@ -12,7 +12,7 @@ I am a university student deeply passionate about computer science and the ever-
 Currently, I'm navigating the exciting world of full-stack development. I love the challenge of bridging the gap between sleek, minimalist user interfaces and robust backend architectures. Whether I'm designing a seamless frontend experience or structuring a database, my goal is always to build clean, efficient, and user-centric applications.
 
 *   🌍 **Based in:** Malaysia
-*   🌱 **Currently learning:** Advanced web architectures, API integrations, and refining my full-stack capabilities.
+*   🌱 **Currently learning:** Advanced web architectures, API integrations, and refining my full-stack capabilities alongside Cybersecurity Skills to deepen my understanding of the web and Internet in general
 *   🎯 **My Goals:** To continuously expand my technical toolkit, master both client-side and server-side engineering, and eventually build impactful tools that solve real-world problems.
 
 ---
@@ -26,10 +26,12 @@ I am comfortable working across the stack and enjoy experimenting with different
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Backend & Databases
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
