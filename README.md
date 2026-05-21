@@ -4,6 +4,11 @@
 </div>
 ---
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelHanz&show_icons=true&theme=radium" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHanz&layout=compact&theme=radium" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHanz&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
