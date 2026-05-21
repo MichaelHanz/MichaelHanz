@@ -3,6 +3,9 @@
   <h3>Full-Stack Junior Developer | Web Enthusiast | Lifelong Learner </h3>
 </div>
 ---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHanz&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ### 👨‍💻 About Me
 
