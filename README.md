@@ -3,7 +3,7 @@
   <h3>Full-Stack Junior Developer | Web Enthusiast | Lifelong Learner </h3>
 </div>
 ---
-### 👨‍💻 About Me
+👨‍💻 About Me
 
 I am a university student deeply passionate about computer science and the ever-evolving landscape of software development. My primary drive is a relentless curiosity to understand exactly how the web works under the hood from the way browsers render pixels to how data moves across servers.
 
